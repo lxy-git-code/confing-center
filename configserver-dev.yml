@@ -1,6 +1,2 @@
-eureka:
-  instance:
-    prefer-ip-address: true
-  client:
-    service-url:
-      defaultZone: http://root:111111@euk01.com:7001/eureka
+config
+  info: "configserver-dev,v1"
